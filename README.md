@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aurusce
 - 👀 I’m interested in gaming in general, but lately sim racing
-- 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on "idk yet!"
-- 📫 Hit me here :P
+- 🌱 I’m currently learning Python, Django, HTML, CSS and JavaScript!
+- 💞️ I’m looking to learn more and perhaps work with coding in the near future!
+- 📫 Hit me here ];8)
 
 <!---
 Aurusce/Aurusce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
